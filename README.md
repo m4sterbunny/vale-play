@@ -1,4 +1,4 @@
-A boilerplate [vale](https://vale.sh/docs/) for use locally. https://passo.uno/posts/first-steps-with-the-vale-prose-linter/ provides a better quickstart.
+A boilerplate [vale](https://vale.sh/docs/) for use locally. https://passo.uno/posts/first-steps-with-the-vale-prose-linter/ provides a better quickstart (but get [install from main docs](https://vale.sh/docs/vale-cli/installation/)).
 
 
 ## Commands
