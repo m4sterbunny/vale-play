@@ -3,7 +3,8 @@ A boilerplate [vale](https://vale.sh/docs/) for use locally. https://passo.uno/p
 
 ## Commands
 
-Grab the to-date version of a style package referenced int the vale.ini with
+Grab the to-date version of a style package referenced in the vale.ini with
+
 `vale sync`
 
 > Microsoft is sourced from https://github.com/errata-ai/Microsoft
